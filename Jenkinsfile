@@ -16,7 +16,7 @@ pipeline {
 
                 git branch: 'main', 
 
-                    url: 'https://github.com/USERNAME/SeleniumJenkinsProject.git' 
+                    url: 'https://github.com/guswasnotsus/selenium-webtest.git' 
 
             } 
 
